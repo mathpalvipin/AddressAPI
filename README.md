@@ -26,14 +26,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
      
  ## Register
 ![](Rimages/welcome.PNG)
-
-
-## Find YOUR ADDRESS
-   This locationiQ API help you find your city , state and country using name or postalcode
-   ![](Rimages/add.PNG)
 ## ADD YOUR ADDRESS
 Add your full adress
 ![](Rimages/Addaddress.PNG)
+
+## Find YOUR ADDRESS(AUTOCOMPLETE)
+   This locationiQ API help you find your city , state and country using name or postalcode
+   ![](Rimages/add.PNG)
+
  
  ## Show ADD ADDRESS
  ![](Rimages/show.PNG)
